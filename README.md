@@ -48,6 +48,6 @@
 
 ## Demo Proyek
 <ul>
-  <li>Github : <a href="">Github</a></li>
+  <li>Github : <a href="">https://github.com/Gilangrmdhn05/UTS_PBO2_23CNSA_23553011436</a></li>
   <li>Youtube : <a href="">https://youtu.be/ZKLJ5Zm7G10?si=t_WSDyInQNdQd8O3</a></li>
 </ul>
